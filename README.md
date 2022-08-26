@@ -1,4 +1,8 @@
 # NoSea
+
+Trynna be a good Operating system....
+
+
 still under dev... (very early dev)
 
 # Run
